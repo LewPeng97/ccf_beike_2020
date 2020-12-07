@@ -9,7 +9,6 @@
 这里仅作为个人学习的baseline，整体思路如下：
 
 尝试不同预训练模型(单模)作文本匹配，其中包括
-
 [BERT-wwm]: https://github.com/ymcui/Chinese-BERT-wwm
 [BERT-wwm-ext]: https://github.com/ymcui/Chinese-BERT-wwm
 [RoBERTa-wwm-ext]: https://github.com/ymcui/Chinese-BERT-wwm
@@ -18,7 +17,6 @@
 [XLNet-mid]: https://github.com/ymcui/Chinese-XLNet
 [NEZHA]: https://github.com/lonePatient/NeZha_Chinese_PyTorch
 [RoBERTa-zh-Large]: https://github.com/brightmart/roberta_zh
-
 (**前六个模型均来自科大讯飞**)
 
 单个模型采用5折交叉验证效果更佳。其中BERT-wwm-ext效果最好，能达到77.5+。
