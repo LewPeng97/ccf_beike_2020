@@ -32,4 +32,4 @@
 具体实现代码见run_cv_lgb_small.py
 
 ### 另一种分类思路
-https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
+[直接将BERT的输出做分类，效果相对会差一点，但比较简单]https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
