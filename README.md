@@ -9,7 +9,7 @@
 这里仅作为个人学习的baseline，整体思路如下：
 
 尝试不同预训练模型(单模)作文本匹配，其中包括
-[BERT-wwm]: https://github.com/ymcui/Chinese-BERT-wwm
+[BERT-wwm]:(https://github.com/ymcui/Chinese-BERT-wwm)
 [BERT-wwm-ext]: https://github.com/ymcui/Chinese-BERT-wwm
 [RoBERTa-wwm-ext]: https://github.com/ymcui/Chinese-BERT-wwm
 [RoBERTa-wwm-ext-large]: https://github.com/ymcui/Chinese-BERT-wwm
