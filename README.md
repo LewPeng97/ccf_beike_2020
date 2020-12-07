@@ -1,6 +1,6 @@
 赛题名称：CCF贝壳房产聊天问答匹配比赛
 
-赛题链接：https://www.datafountain.cn/special/BDCI2020/competition?utm_source=1001
+赛题链接：https://www.datafountain.cn/competitions/474
 
 赛题类型：自然语言处理、文本分类
 
