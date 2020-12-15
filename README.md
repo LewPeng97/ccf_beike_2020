@@ -30,6 +30,6 @@
 [CCF贝壳房产聊天问答匹配高分思路](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247487962&amp;idx=1&amp;sn=91269fcde0d47f8f3899bf77fe34e415&amp;chksm=96c43c1fa1b3b509593b2baed411e57f47d5990b316f6c56a6f7e10802a470b0b3cd55239a78&amp;scene=132#wechat_redirect)
 
 具体实现代码见run_cv_lgb_small.py
-采用贝叶斯搜索出lightgbm最优参数，详情见run_bayes.py
+采用贝叶斯搜索出lightgbm最优参数，详情见run_bayesopt.py
 ### 另一种分类思路
 [直接将BERT的输出做分类，效果相对会差一点，但比较简单](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
